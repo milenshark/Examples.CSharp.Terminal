@@ -1,0 +1,2 @@
+D:\Milen\primeri.csharp.terminal\Hello\Hello\bin\Release\Hello.exe
+D:\Milen\primeri.csharp.terminal\Hello\Hello\obj\x86\Release\Hello.exe
